@@ -1,0 +1,11 @@
+﻿/niffler.az.test/bin
+/niffler.az.test/obj
+/niffler.az.test/App.config
+/niffler.az/bin
+/niffler.az/obj
+/.vs
+*.user
+/niffler.az/Properties/ServiceDependencies/niffler-devtest - Push Deploy
+/niffler.az/Properties/serviceDependencies.niffler-devtest - Push Deploy.json
+/niffler.az/Properties/serviceDependencies.json
+/niffler.az/Properties/PublishProfiles/niffler-devtest - Push Deploy.pubxml

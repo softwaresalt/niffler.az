@@ -1,0 +1,9 @@
+PartitionKey,RowKey,Timestamp,ParameterValue,ParameterValue@type,ServiceID,ServiceID@type,ServiceLoginParameterType,ServiceLoginParameterType@type
+493853015594237955,LoginPassword,2021-03-01T19:59:33.621Z,[your-password-value-here],Edm.String,493853015594237955,Edm.Int64,LoginPassword,Edm.String
+493853015594237955,LoginPasswordFormField,2021-02-28T20:51:26.192Z,password,Edm.String,493853015594237955,Edm.Int64,LoginPasswordFormField,Edm.String
+493853015594237955,LoginRememberThisComputer,2021-02-28T20:51:26.193Z,true,Edm.String,493853015594237955,Edm.Int64,LoginRememberThisComputer,Edm.String
+493853015594237955,LoginRememberThisComputerFormField,2021-02-28T20:51:26.193Z,remember,Edm.String,493853015594237955,Edm.Int64,LoginRememberThisComputerFormField,Edm.String
+493853015594237955,LoginSubmitURL,2021-02-28T20:51:26.193Z,https://finviz.com/login_submit.ashx,Edm.String,493853015594237955,Edm.Int64,LoginSubmitURL,Edm.String
+493853015594237955,LoginURL,2021-02-28T20:51:26.193Z,https://elite.finviz.com/export.ashx,Edm.String,493853015594237955,Edm.Int64,LoginURL,Edm.String
+493853015594237955,LoginUsername,2021-03-01T19:59:48.076Z,[your-username-value-here],Edm.String,493853015594237955,Edm.Int64,LoginUsername,Edm.String
+493853015594237955,LoginUsernameFormField,2021-02-28T20:51:26.193Z,email,Edm.String,493853015594237955,Edm.Int64,LoginUsernameFormField,Edm.String

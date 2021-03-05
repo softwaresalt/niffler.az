@@ -1,0 +1,117 @@
+[
+	{
+		"name": "AzureWebJobsStorage",
+		"value": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=[your-storage-account-name-here];AccountKey=[your-storage-account-key-here]",
+		"slotSetting": false
+	},
+	{
+		"name": "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING",
+		"value": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=[your-storage-account-name-here];AccountKey=[your-storage-account-key-here]",
+		"slotSetting": false
+	},
+	{
+		"name": "WEBSITE_CONTENTSHARE",
+		"value": "[your-app-name-here]-devtest",
+		"slotSetting": false
+	},
+	{
+		"name": "APPINSIGHTS_INSTRUMENTATIONKEY",
+		"value": "[your-instrumentation-key-here]",
+		"slotSetting": true
+	},
+	{
+		"name": "APPLICATIONINSIGHTS_CONNECTION_STRING",
+		"value": "InstrumentationKey=[your-instrumentation-key-here]",
+		"slotSetting": false
+	},
+	{
+		"name": "APCA-API-KEY-ID",
+		"value": "",
+		"slotSetting": false
+	},
+	{
+		"name": "APCA-API-SECRET-KEY",
+		"value": "",
+		"slotSetting": false
+	},
+	{
+		"name": "NotifyFromAddress",
+		"value": "",
+		"slotSetting": false
+	},
+	{
+		"name": "Notification-Credential-UN",
+		"value": "",
+		"slotSetting": false
+	},
+	{
+		"name": "Notification-Credential-PW",
+		"value": "",
+		"slotSetting": false
+	},
+	{
+		"name": "NotificationMonitorQueueName",
+		"value": "notification",
+		"slotSetting": false
+	},
+	{
+		"name": "TradeDispatchMonitorQueueName",
+		"value": "tradedispatchmonitor",
+		"slotSetting": false
+	},
+	{
+		"name": "TradeOperationQueueName",
+		"value": "tradeoperations",
+		"slotSetting": false
+	},
+	{
+		"name": "TradingEnvironment",
+		"value": "Paper",
+		"slotSetting": false
+	},
+	{
+		"name": "USE_KEYVAULT",
+		"value": "False",
+		"slotSetting": false
+	},
+	{
+		"name": "AZURE_CLIENT_ID",
+		"value": "",
+		"slotSetting": false
+	},
+	{
+		"name": "AZURE_CLIENT_SECRET",
+		"value": "",
+		"slotSetting": false
+	},
+	{
+		"name": "AZURE_TENANT_ID",
+		"value": "",
+		"slotSetting": false
+	},
+	{
+		"name": "KEY_VAULT_NAME",
+		"value": "niffler-devtest",
+		"slotSetting": false
+	},
+	{
+		"name": "SCM_DO_BUILD_DURING_DEPLOYMENT",
+		"value": "False",
+		"slotSetting": false
+	},
+	{
+		"name": "FUNCTIONS_EXTENSION_VERSION",
+		"value": "~3",
+		"slotSetting": false
+	},
+	{
+		"name": "FUNCTIONS_WORKER_RUNTIME",
+		"value": "dotnet",
+		"slotSetting": false
+	},
+	{
+		"name": "WEBSITE_TIME_ZONE",
+		"value": "Eastern Standard Time",
+		"slotSetting": false
+	}
+]

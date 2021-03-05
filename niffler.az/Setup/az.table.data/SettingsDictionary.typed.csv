@@ -1,0 +1,2 @@
+PartitionKey,RowKey,Timestamp,ValueBool,ValueBool@type,ValueDate,ValueDate@type,ValueInt,ValueInt@type,ValueString,ValueString@type,ValueTime,ValueTime@type
+ExchangeUTCOffset,Eastern Standard Time,2018-09-10T19:05:47.738Z,,Edm.String,,Edm.String,,Edm.String,Eastern Standard Time,Edm.String,05:00:00,Edm.String

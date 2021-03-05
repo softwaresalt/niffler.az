@@ -1,0 +1,18 @@
+{
+	"version": "2.0",
+	"id": "e145bf775b0044a796aa02013cae0e36",
+	"logging": {
+		"fileLoggingMode": "debugOnly",
+		"console": { "isEnabled": "true" },
+		"logLevel": { "default": "Debug" }
+	},
+	"extensions": {
+		"queues": {
+			"maxPollingInterval": "00:00:05",
+			"visibilityTimeout": "00:00:30",
+			"batchSize": 12,
+			"maxDequeueCount": 10,
+			"newBatchThreshold": 2
+		}
+	}
+}
